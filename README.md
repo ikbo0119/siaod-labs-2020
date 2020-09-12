@@ -2,7 +2,7 @@
 ## ИКБО-01-19
 1. [Акимов Валерий](https://github.com/akimovve/dpa-labs)
 2. [Аникеев Семён]
-3. [Витухина Наталья]
+3. [Витухина Наталья](https://github.com/IAmMum-sAsh/AOD)
 4. [Ворожейкин Данил](https://github.com/McForse/dpa_labs)
 5. [Гришкова Евгения]
 6. [Директоров Виктор]
@@ -25,8 +25,8 @@
 23. [Соколовский Игорь](https://github.com/DJSwitchCase/AODSokolovsky)
 24. [Солуянов Максим]
 25. [Субботин Евгений](https://github.com/Evgeniy638/aod_lab)
-26. [Субботин Иван]
+26. [Субботин Иван](https://github.com/iesub/AODLabs)
 27. [Туманов Никита]
 28. [Чушкин Олег]
-29. [Широков Пётр]
-30. [Яновский Владислав]
+29. [Широков Пётр](https://github.com/general0303/algorithms)
+30. [Яновский Владислав](https://github.com/tevkr/SiAOD_labs)
