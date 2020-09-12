@@ -18,13 +18,13 @@
 16. [Ославская Лидия]
 17. [Павлинина Софья](https://github.com/Jonesso/algorithmsAndDS)
 18. [Панченков Михаил]
-19. [Паньковецкий Александр]
+19. [Паньковецкий Александр](https://github.com/Airmanxd/AOD1)
 20. [Петухов Никита](https://github.com/Paycel/AOD_Practice)
 21. [Прошин Алексей]
 22. [Рогов Дмитрий]
 23. [Соколовский Игорь](https://github.com/DJSwitchCase/AODSokolovsky)
 24. [Солуянов Максим]
-25. [Субботин Евгений]
+25. [Субботин Евгений](https://github.com/Evgeniy638/aod_lab)
 26. [Субботин Иван]
 27. [Туманов Никита]
 28. [Чушкин Олег]
