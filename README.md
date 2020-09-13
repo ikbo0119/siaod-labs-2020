@@ -5,9 +5,9 @@
 3. [Витухина Наталья](https://github.com/IAmMum-sAsh/AOD)
 4. [Ворожейкин Данил](https://github.com/McForse/dpa_labs)
 5. [Гришкова Евгения]
-6. [Директоров Виктор]
+6. [Директоров Виктор](https://github.com/vixelambda/SiAOD)
 7. [Желудков Данила](https://github.com/kimoror/Struct-and-Data-Processing-Algoritms)
-8. [Залётин Никита]
+8. [Залётин Никита](https://github.com/nikita-jpg/dpa-labs)
 9. [Зыков Максим]
 10. [Иванцов Михаил]
 11. [Иноземцев Никита](https://github.com/NikitaInozemtsev/AOD)
@@ -17,7 +17,7 @@
 15. [Львов Тинлей](https://github.com/kamabulletone/AOD)
 16. [Ославская Лидия]
 17. [Павлинина Софья](https://github.com/Jonesso/algorithmsAndDS)
-18. [Панченков Михаил]
+18. [Панченков Михаил](https://github.com/FuryMishhha/AOD)
 19. [Паньковецкий Александр](https://github.com/Airmanxd/AOD1)
 20. [Петухов Никита](https://github.com/Paycel/AOD_Practice)
 21. [Прошин Алексей]
