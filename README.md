@@ -1,12 +1,12 @@
 # Работы по АОД
 ## ИКБО-01-19
 1. [Акимов Валерий](https://github.com/akimovve/dpa-labs)
-2. [Аникеев Семён]
+2. [Аникеев Семён](https://github.com/RudeZwloki7/SiAOD)
 3. [Витухина Наталья](https://github.com/IAmMum-sAsh/AOD)
 4. [Ворожейкин Данил](https://github.com/McForse/dpa_labs)
 5. [Гришкова Евгения]
 6. [Директоров Виктор]
-7. [Желудков Данила]
+7. [Желудков Данила](https://github.com/kimoror/Struct-and-Data-Processing-Algoritms)
 8. [Залётин Никита]
 9. [Зыков Максим]
 10. [Иванцов Михаил]
@@ -26,7 +26,7 @@
 24. [Солуянов Максим]
 25. [Субботин Евгений](https://github.com/Evgeniy638/aod_lab)
 26. [Субботин Иван](https://github.com/iesub/AODLabs)
-27. [Туманов Никита]
-28. [Чушкин Олег]
+27. [Туманов Никита](https://github.com/NikitaTumanov/Tumanov_IKBO-01-19_AOD)
+28. [Чушкин Олег](https://github.com/genken1/AOD_Practice1)
 29. [Широков Пётр](https://github.com/general0303/algorithms)
 30. [Яновский Владислав](https://github.com/tevkr/SiAOD_labs)
