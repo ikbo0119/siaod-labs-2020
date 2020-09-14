@@ -11,11 +11,11 @@
 9. [Зыков Максим]
 10. [Иванцов Михаил]
 11. [Иноземцев Никита](https://github.com/NikitaInozemtsev/AOD)
-12. [Кузин Данил]
+12. [Кузин Данил](https://github.com/Shambonik/dpa_practice)
 13. [Ладыгин Сергей]
 14. [Леутина Таисия](https://github.com/mournfulCoroner/aod_practice)
 15. [Львов Тинлей](https://github.com/kamabulletone/AOD)
-16. [Ославская Лидия]
+16. [Ославская Лидия](https://github.com/VishLi777/AOD-Practics)
 17. [Павлинина Софья](https://github.com/Jonesso/algorithmsAndDS)
 18. [Панченков Михаил](https://github.com/FuryMishhha/AOD)
 19. [Паньковецкий Александр](https://github.com/Airmanxd/AOD1)
