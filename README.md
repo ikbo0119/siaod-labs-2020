@@ -20,10 +20,10 @@
 18. [Панченков Михаил](https://github.com/FuryMishhha/AOD)
 19. [Паньковецкий Александр](https://github.com/Airmanxd/AOD1)
 20. [Петухов Никита](https://github.com/Paycel/AOD_Practice)
-21. [Прошин Алексей]
+21. [Прошин Алексей](https://github.com/axisrin/practice-aod_generation)
 22. [Рогов Дмитрий]
 23. [Соколовский Игорь](https://github.com/DJSwitchCase/AODSokolovsky)
-24. [Солуянов Максим]
+24. [Солуянов Максим](https://away.vk.com/away.php)
 25. [Субботин Евгений](https://github.com/Evgeniy638/aod_lab)
 26. [Субботин Иван](https://github.com/iesub/AODLabs)
 27. [Туманов Никита](https://github.com/NikitaTumanov/Tumanov_IKBO-01-19_AOD)
