@@ -8,8 +8,8 @@
 6. [Директоров Виктор](https://github.com/vixelambda/SiAOD)
 7. [Желудков Данила](https://github.com/kimoror/Struct-and-Data-Processing-Algoritms)
 8. [Залётин Никита](https://github.com/nikita-jpg/dpa-labs)
-9. [Зыков Максим]
-10. [Иванцов Михаил]
+9. [Зыков Максим](https://github.com/Maximizer07/AOD)
+10. [Иванцов Михаил](https://github.com/Mike-Like11/aod_ikbo-01-19_Ivantsov)
 11. [Иноземцев Никита](https://github.com/NikitaInozemtsev/AOD)
 12. [Кузин Данил](https://github.com/Shambonik/dpa_practice)
 13. [Ладыгин Сергей]
