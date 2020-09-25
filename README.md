@@ -12,7 +12,7 @@
 10. [Иванцов Михаил](https://github.com/Mike-Like11/aod_ikbo-01-19_Ivantsov)
 11. [Иноземцев Никита](https://github.com/NikitaInozemtsev/AOD)
 12. [Кузин Данил](https://github.com/Shambonik/dpa_practice)
-13. [Ладыгин Сергей]
+13. [Ладыгин Сергей](https://github.com/Drennout/struct_and_aod)
 14. [Леутина Таисия](https://github.com/mournfulCoroner/aod_practice)
 15. [Львов Тинлей](https://github.com/kamabulletone/AOD)
 16. [Ославская Лидия](https://github.com/VishLi777/AOD-Practics)
