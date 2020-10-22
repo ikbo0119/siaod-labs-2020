@@ -27,6 +27,6 @@
 25. [Субботин Евгений](https://github.com/Evgeniy638/aod_lab)
 26. [Субботин Иван](https://github.com/iesub/AODLabs)
 27. [Туманов Никита](https://github.com/NikitaTumanov/Tumanov_IKBO-01-19_AOD)
-28. [Чушкин Олег](https://github.com/genken1/AOD_Practice1)
+28. [Чушкин Олег](https://github.com/genken1/dpa-labs)
 29. [Широков Пётр](https://github.com/general0303/algorithms)
 30. [Яновский Владислав](https://github.com/tevkr/SiAOD_labs)
