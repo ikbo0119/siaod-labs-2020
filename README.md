@@ -4,7 +4,7 @@
 2. [Аникеев Семён](https://github.com/RudeZwloki7/SiAOD)
 3. [Витухина Наталья](https://github.com/IAmMum-sAsh/AOD)
 4. [Ворожейкин Данил](https://github.com/McForse/dpa_labs)
-5. [Гришкова Евгения]
+5. [Гришкова Евгения](https://github.com/Overbyaka/siaod)
 6. [Директоров Виктор](https://github.com/vixelambda/SiAOD)
 7. [Желудков Данила](https://github.com/kimoror/Struct-and-Data-Processing-Algoritms)
 8. [Залётин Никита](https://github.com/nikita-jpg/dpa-labs)
